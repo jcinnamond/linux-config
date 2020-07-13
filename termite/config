@@ -1,0 +1,4 @@
+[options]
+font = FiraCode Nerd Font 12
+browser = firefox --new-tab
+clickable_url = true
